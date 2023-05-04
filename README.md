@@ -96,7 +96,7 @@ Explain how to run the automated tests for this system.
   
   </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(180).png?raw=true" alt="Project demo"></a></p>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/divi1597/instagram-clone/blob/main/Screenshot%202023-05-04%20224355.png" alt="Project demo"></a></p>
 
 
 ## 🎈 Usage <a name="usage"></a>
