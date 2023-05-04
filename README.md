@@ -78,21 +78,21 @@ Explain how to run the automated tests for this system.
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(175).png?raw=true" alt="Project demo">
+    <img width=1400px height=500px src="https://github.com/divi1597/instagram-clone/blob/main/Screenshot%202023-05-04%20222057.png" alt="Project demo">
     </a>
 </p>
 
 
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(176).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/divi1597/instagram-clone/blob/main/Screenshot%202023-05-04%20222023.png" alt="Project demo"></a>
 </p>
 
 
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(177).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/divi1597/instagram-clone/blob/main/Screenshot%202023-05-04%20223333.png" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/irfan9814/Instagram-Clone/blob/main/ScreenShots/Screenshot%20(178).png?raw=true" alt="Project demo"></a></p>
+  <a href="" rel="noopener"><img width=1400px height=500px src="https://github.com/divi1597/instagram-clone/blob/main/Screenshot%202023-05-04%20223407.png" alt="Project demo"></a></p>
   
   </p>
 <p align="center">
